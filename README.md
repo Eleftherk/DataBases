@@ -1,0 +1,1 @@
+Repository for the "Databases" course at Aristotle University of Thessaloniki (AUTH) at 9th semester(2023-24). This repository contains the files and documentation for the assignment in this subject where i was part of a team with 3 people. 
